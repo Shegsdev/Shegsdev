@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shegsdev
+- 👋 Hi, I’m Segun
 - 👀 I’m interested in everything ART
 - 🌱 I’m currently learning a bunch of stuff including Artificial Intelligence
 - 💞️ I’m looking to collaborate on Mobile / Web Applications Development
